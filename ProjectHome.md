@@ -1,0 +1,1 @@
+[This project has now moved to GitHub](https://github.com/gfwilliams/tiny-js)
